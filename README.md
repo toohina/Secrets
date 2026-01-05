@@ -35,10 +35,10 @@ This project intentionally demonstrates:
 - Mongoose — ODM
 
 ### Authentication & Security
-- Passport.js
+- Passport.js: Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
 - passport-local-mongoose
 - express-session
-- Google OAuth 2.0
+- Google OAuth 2.0 (Open authorization (OAuth) is an open-standard authorization framework that grants applications access to an end user’s protected resources—such as their photos, calendars or social media posts—without requiring the login or password to the user’s account.)
 - Facebook OAuth
 - dotenv — environment variables
 
